@@ -20,6 +20,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/l#a36873
     - http://www.english.eku.edu/services/kylit/buck.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19089#A-Pagan-of-the-Hills
 gutenberg_issued: '2006-08-20'
 gutenberg_type: Text
 identifiers:
